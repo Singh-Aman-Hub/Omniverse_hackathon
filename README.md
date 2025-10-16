@@ -19,7 +19,7 @@ A full-stack web application for patients to upload prescriptions, extract medic
 
 - **Frontend:** React, Tailwind CSS, Axios
 - **Backend:** FastAPI (Python 3.11)
-- **OCR & LLM:** (Demo mode) Hardcoded medicine extraction for privacy and demo purposes
+- **OCR & LLM:** PaddleOCR and Gemini-2.5-flash
 - **Database:** MongoDB (for user and medicine data)
 
 ---
@@ -106,6 +106,6 @@ MIT
 ---
 
 ## Authors
-- Aman Singh (Singh-Aman-Hub)
+
 - Omniverse Hackathon Team
-# Here are your Instructions
+
